@@ -1,0 +1,56 @@
+.body {
+    background-color: rgb(234,235,237);
+}
+
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form input {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+button {
+    border-radius: 5px;
+    padding: 3px 8px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+    font-size: large;
+}
+
+.lotterypick {
+    text-align: center;
+    font-size: 25px;
+}
+
+.powerball {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.powerball::placeholder {
+    color: white;
+}
+
+.lottery-picks-table {
+    margin: 0 auto;
+    width: 30%;
+}
+
+.form-btn {
+    display: inline-block;
+}

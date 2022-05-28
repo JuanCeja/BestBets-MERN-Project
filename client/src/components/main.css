@@ -1,0 +1,119 @@
+
+/* ===========winners section============ */
+.sections {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: silver;
+}
+
+.section-img {
+    width: 40%;
+    border-radius: 5px;
+}
+
+thead tr td {
+    text-align: center;
+    background-color: rgb(231, 228, 228);
+    padding: 5px 15px;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+
+tbody tr td {
+    text-align: center;
+    background-color: rgb(231, 228, 228);
+    padding: 5px 15px;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+/* ===========winners section============ */
+
+
+/* ===========betting section============ */
+
+.betting-section {
+    background-color: rgb(90, 90, 90);
+    padding: 10px 0px;
+}
+
+.betting-section h2 {
+    color: white;
+    text-decoration: underline;
+}
+
+.sport-category {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.sports-betting-imgs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 50px;
+}
+
+.sports-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.sports-logo p {
+    color: white;
+    cursor: pointer;
+}
+
+.sports-logo img:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.sports-logo img{border-radius: 50%;
+    height: 100px;
+    background-color: silver;
+    padding: 3px;
+    width: 100px;
+}
+
+.betting-section h2 {
+    text-align: center;
+}
+
+/* ===========betting section============ */
+
+
+/* ===========powerball section============ */
+.powerball-section {
+    background-color: silver;
+    padding: 15px 0px;
+}
+
+.powerball-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.powerball-links a {
+    color: red;
+    cursor: pointer;
+}
+
+.powerball-links a:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.powerball-section h2 {
+    text-align: center;
+}
+
+/* ===========powerball section============ */
