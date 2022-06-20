@@ -1,2 +1,1 @@
-![BestBets_Project](https://user-images.githubusercontent.com/94949664/174682136-44646114-f4e9-4645-abc3-f05d01a527b4.png)
-
+![BestBets_Project (1)](https://user-images.githubusercontent.com/94949664/174682196-b01bed50-a83a-4ac1-a4f5-5c76634575c6.png)
