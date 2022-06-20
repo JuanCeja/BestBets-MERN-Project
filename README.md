@@ -3,7 +3,7 @@
 
 ### An app where users are able to see upcoming schedules for multiple sports and fighting events. Users will also be able to see different betting odds so a user can have options to make their best bet. Not only will users be able to see sport schedules and odds but users will also be able to to enter multiple lottery pools and see other entries that have been previously posted.
 
-##Features
+## Features
 
 -MongoDB
 -Express
