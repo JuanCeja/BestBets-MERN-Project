@@ -14,7 +14,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94949664/174685030-2167823f-5305-4c13-9e65-71e2d811b8e2.gif)
 
 
-## Viewing Sports Schedule and Best Betting Odds
+## Viewing Sports Schedule and Money lines
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/94949664/174685747-26ca3191-673f-410a-ac58-f1de002ac61e.gif)
 
