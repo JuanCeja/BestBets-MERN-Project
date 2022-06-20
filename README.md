@@ -17,3 +17,7 @@
 ## Viewing Sports Schedule and Best Betting Odds
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/94949664/174685747-26ca3191-673f-410a-ac58-f1de002ac61e.gif)
+
+## Lottery Pool and Entries with validations
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/94949664/174686245-9b2049ee-7c79-46d0-9183-2763120d5d21.gif)
